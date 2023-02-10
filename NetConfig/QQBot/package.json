@@ -1,0 +1,15 @@
+{
+  "name": "jioubot",
+  "version": "1.0.0",
+  "description": "Junyan's Bot",
+  "main": "JiouBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junyan721113",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.4",
+    "oicq": "^2.3.1"
+  }
+}

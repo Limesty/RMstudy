@@ -1,0 +1,7 @@
+car
+armor_red
+armor_blue
+watcher
+ignore
+base
+armor_grey

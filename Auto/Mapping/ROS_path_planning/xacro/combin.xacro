@@ -1,0 +1,10 @@
+<!-- 组合小车底盘与摄像头与雷达 -->
+<robot name="my_car_camera" xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:include filename="inertial_matrix.xacro" />
+    <xacro:include filename="car.xacro" />
+    <xacro:include filename="camera.xacro" />
+    <xacro:include filename="rada.xacro" />
+    <xacro:include filename="move.xacro" />
+    <xacro:include filename="radasensor.xacro" />
+</robot>
+

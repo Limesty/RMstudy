@@ -1,0 +1,17 @@
+car
+armor_red
+armor_blue
+armor_grey
+base
+A_red
+B_red
+C_red
+D_red
+E_red
+Unknown_red
+A_blue
+B_blue
+C_blue
+D_blue
+E_blue
+Unkown_blue
